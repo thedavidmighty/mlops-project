@@ -1,0 +1,9 @@
+pandas
+sckit-learn
+numpy
+seaborn
+ipykernel
+Flask
+mlflow == 2.2.2
+dvc
+apache-airflow
